@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
+    <AndroidDesignerPreferredTheme>AppTheme</AndroidDesignerPreferredTheme>
+    <SelectedDevice>Nexus_4_API_22</SelectedDevice>
+    <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
+    <ActiveDebugProfile>Nexus_4_API_22</ActiveDebugProfile>
+    <DefaultDevice>Nexus_4_API_22</DefaultDevice>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>C:\Users\ladzi\OneDrive\Pulpit\SEMESTR 8\MOBILKI\MobileApp_v99\App1\App1\Activities\;C:\Users\ladzi\OneDrive\Pulpit\SEMESTR 8\MOBILKI\MobileApp_v99\App1\App1\APIServices\</ReferencePath>
+  </PropertyGroup>
+</Project>

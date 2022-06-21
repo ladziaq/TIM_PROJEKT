@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ladzi\\OneDrive\\Pulpit\\SEMESTR 8\\MOBILKI\\MobileApp_v99\\App1\\App1\\App1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ladzi\\OneDrive\\Pulpit\\SEMESTR 8\\MOBILKI\\MobileApp_v99\\App1\\App1\\App1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ladzi\\OneDrive\\Pulpit\\SEMESTR 8\\MOBILKI\\MobileApp_v99\\App1\\App1\\App1.csproj",
+        "projectName": "App1",
+        "projectPath": "C:\\Users\\ladzi\\OneDrive\\Pulpit\\SEMESTR 8\\MOBILKI\\MobileApp_v99\\App1\\App1\\App1.csproj",
+        "packagesPath": "C:\\Users\\ladzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ladzi\\OneDrive\\Pulpit\\SEMESTR 8\\MOBILKI\\MobileApp_v99\\App1\\App1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ladzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.FFImageLoading": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
